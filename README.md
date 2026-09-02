@@ -17,9 +17,3 @@ Retail stockouts lose sales; excess stock locks capital. This project builds a w
 - `notebooks/` – cleaning, EDA, features, LightGBM, risk scoring
 - `reports/` – full project report and stage PDFs
 - `data/` – cleaned and modelling outputs
-- `app.py` – Streamlit dashboard
-
-## How to run the dashboard
-```bash
-pip install -r requirements.txt
-streamlit run app.py
